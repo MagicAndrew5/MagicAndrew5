@@ -31,6 +31,12 @@ I rediscovered myself as stubborn, responsible and punctual in delivering projec
 <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB"  alt="MongoDB" width="50" height="50"/>&nbsp;
 </p>
 
+## 🔥 My Stats
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MagicAndrew5&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MagicAndrew5&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ## 🔗 Connect with me :
 <p align="left">
 <a href="https://www.linkedin.com/in/andrea-messa-aa38a5256/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andreamessa" height="30" width="40" /></a>
