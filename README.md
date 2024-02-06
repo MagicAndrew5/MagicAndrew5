@@ -32,7 +32,8 @@ I rediscovered myself as stubborn, responsible and punctual in delivering projec
 </p>
 
 ## 🔥 My Stats
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MagicAndrew5&theme=dark&background=000000)](https://git.io/streak-stats)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MagicAndrew5&theme=codeSTACKr&show_icons=true&count_private=true&include_all_commits=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MagicAndrew5&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
