@@ -32,9 +32,9 @@ I rediscovered myself as stubborn, responsible and punctual in delivering projec
 </p>
 
 ## 🔥 My Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MagicAndrew5&layout=compact&theme=vision-friendly-dark)](https://github.com/MagicAndrew5)
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MagicAndrew5&theme=codeSTACKr&show_icons=true&count_private=true&include_all_commits=true)](https://github.com/MagicAndrew5)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MagicAndrew5&layout=compact&theme=vision-friendly-dark)](https://github.com/MagicAndrew5)
 
 ## 🔗 Connect with me :
 <p align="left">
