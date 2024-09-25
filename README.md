@@ -32,9 +32,12 @@ I rediscovered myself as stubborn, responsible and punctual in delivering projec
 </p>
 
 ## 🔥 My Stats
-![Andrea's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MagicAndrew5&theme=codeSTACKr&show_icons=true&count_private=true&include_all_commits=true&v=1)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MagicAndrew5&theme=codeSTACKr&layout=donut-vertical)](https://github.com/MagicAndrew5/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=MagicAndrew5&theme=codeSTACKr&show_icons=true&count_private=true" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MagicAndrew5&theme=codeSTACKr&layout=compact&langs_count=8&card_width=320&count_private=true" />
+</a>
 
 ## 🔗 Connect with me :
 <p align="left">
