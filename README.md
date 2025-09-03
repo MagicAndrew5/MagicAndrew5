@@ -49,5 +49,3 @@ width="40" /></a>
 
 ## ✉️ Contact Me :
 - Personal Email: [Messandrea10@gmail.com](mailto:Messandrea10@gmail.com)
-- Unimib Email: [a.messa@campus.unimib.it](mailto:a.messa@campus.unimib.it)
-- USI Email: [andrea.messa@usi.ch](mailto:andrea.messa@usi.ch)
